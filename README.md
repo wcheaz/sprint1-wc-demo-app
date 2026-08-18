@@ -1,2 +1,1 @@
-started
-hello
+This removes everything!!!
